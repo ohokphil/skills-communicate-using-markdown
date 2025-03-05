@@ -17,3 +17,6 @@ I'm following skills/github and made some headers. wow.
 ```
 console.log(`yo what up`)
 ```
+- [X] not really sure if this is where it's supposed to go
+- [ ] could be a little more specific about which file you mean
+- [ ] but I will let this one slide for now! 
