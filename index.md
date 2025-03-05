@@ -1,3 +1,13 @@
 #this is my h1 header
 
-I'm following skills/github and made an h1 header. wow.
+##this is my h2
+
+###this is my h3
+
+####this is my h4
+
+#####this is my h5
+
+######this is my h6
+
+I'm following skills/github and made some headers. wow.
