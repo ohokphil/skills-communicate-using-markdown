@@ -13,3 +13,7 @@
 I'm following skills/github and made some headers. wow.
 
 ![angry girl](https://i.imgur.com/9bHAPTg.jpg)
+
+```
+console.log(`yo what up`)
+```
